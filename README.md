@@ -4,6 +4,8 @@
 
 # Naren Swaminathan
 
+<!-- profile-readme-refresh -->
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Naren3333&style=flat-square&color=0f766e)](https://github.com/Naren3333)
 [![GitHub followers](https://img.shields.io/github/followers/Naren3333?style=flat-square&color=2563eb)](https://github.com/Naren3333?tab=followers)
 [![Software Engineering](https://img.shields.io/badge/SMU-Software%20Engineering-7c3aed?style=flat-square)](https://github.com/Naren3333)
@@ -67,4 +69,3 @@ Interactive portfolio built with React, Tailwind CSS, motion effects, and 3D ele
 
 [![GitHub](https://img.shields.io/badge/GitHub-Naren3333-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Naren3333)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:naren.swaminathan.2005@gmail.com)
-
