@@ -56,12 +56,14 @@ Interactive portfolio built with React, Tailwind CSS, motion effects, and 3D ele
 - data analytics and visualisation
 - machine learning workflows with practical applications
 
-## GitHub Stats
+## GitHub Activity
+
+Language breakdown cards on GitHub can be heavily skewed by notebooks, generated files, and dataset-heavy repos, so I prefer to highlight my work through projects and recent activity instead.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naren3333&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155&icon_color=2563eb)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naren3333&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naren3333&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155&icon_color=2563eb&hide=issues)
+![GitHub Streak](https://streak-stats.demolab.com?user=Naren3333&theme=transparent&hide_border=true&ring=0f766e&fire=2563eb&currStreakLabel=0f766e&sideNums=334155&currStreakNum=334155&dates=64748b&sideLabels=64748b)
 
 </div>
 
