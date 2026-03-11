@@ -1,0 +1,40 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="80" x2="450" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1000" cy="70" r="120" fill="#1D4ED8" fill-opacity="0.14"/>
+  <circle cx="1080" cy="250" r="160" fill="#14B8A6" fill-opacity="0.12"/>
+  <circle cx="180" cy="280" r="150" fill="#0EA5E9" fill-opacity="0.10"/>
+
+  <rect x="72" y="64" width="8" height="190" rx="4" fill="url(#accent)"/>
+
+  <text x="110" y="122" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">
+    Naren Swaminathan
+  </text>
+  <text x="110" y="162" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
+    Software Engineering Student at SMU
+  </text>
+  <text x="110" y="202" fill="#D1FAE5" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Building full-stack apps, backend systems, data projects, and practical software.
+  </text>
+  <text x="110" y="234" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Interested in software engineering, analytics, and systems that solve real problems.
+  </text>
+
+  <rect x="760" y="80" width="320" height="164" rx="18" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.10"/>
+  <text x="792" y="124" fill="#E2E8F0" font-family="Consolas, monospace" font-size="18">tech_stack = {</text>
+  <text x="812" y="154" fill="#7DD3FC" font-family="Consolas, monospace" font-size="18">"backend": ["Python", "Node.js"],</text>
+  <text x="812" y="184" fill="#86EFAC" font-family="Consolas, monospace" font-size="18">"frontend": ["React", "Next.js", "Vue"],</text>
+  <text x="812" y="214" fill="#FDE68A" font-family="Consolas, monospace" font-size="18">"data": ["pandas", "SQL", "Tableau"]</text>
+  <text x="792" y="244" fill="#E2E8F0" font-family="Consolas, monospace" font-size="18">}</text>
+</svg>
