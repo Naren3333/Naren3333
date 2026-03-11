@@ -2,39 +2,52 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
-      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="0.48" stop-color="#0F1D3A"/>
       <stop offset="1" stop-color="#0F766E"/>
     </linearGradient>
     <linearGradient id="accent" x1="140" y1="80" x2="450" y2="250" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
       <stop offset="1" stop-color="#34D399"/>
     </linearGradient>
+    <linearGradient id="panel" x1="740" y1="92" x2="1060" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.04"/>
+    </linearGradient>
   </defs>
 
   <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <circle cx="1000" cy="70" r="120" fill="#1D4ED8" fill-opacity="0.14"/>
-  <circle cx="1080" cy="250" r="160" fill="#14B8A6" fill-opacity="0.12"/>
-  <circle cx="180" cy="280" r="150" fill="#0EA5E9" fill-opacity="0.10"/>
+  <circle cx="988" cy="68" r="118" fill="#1D4ED8" fill-opacity="0.12"/>
+  <circle cx="1076" cy="250" r="152" fill="#14B8A6" fill-opacity="0.10"/>
+  <circle cx="128" cy="278" r="108" fill="#0EA5E9" fill-opacity="0.08"/>
+  <path d="M0 250C88 220 156 224 248 262C338 300 436 298 516 256C596 214 676 196 772 210C870 224 954 272 1200 288V320H0V250Z" fill="white" fill-opacity="0.03"/>
 
-  <rect x="72" y="64" width="8" height="190" rx="4" fill="url(#accent)"/>
+  <rect x="72" y="70" width="8" height="178" rx="4" fill="url(#accent)"/>
 
-  <text x="110" y="122" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">
+  <rect x="110" y="72" width="170" height="30" rx="15" fill="white" fill-opacity="0.08"/>
+  <text x="129" y="92" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
+    SOFTWARE ENGINEERING • SMU
+  </text>
+
+  <text x="110" y="142" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">
     Naren Swaminathan
   </text>
-  <text x="110" y="162" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
-    Software Engineering Student at SMU
+  <text x="110" y="178" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">
+    Building full-stack systems, backend services, and data projects
   </text>
-  <text x="110" y="202" fill="#D1FAE5" font-family="Segoe UI, Arial, sans-serif" font-size="18">
-    Building full-stack apps, backend systems, data projects, and practical software.
+  <text x="110" y="216" fill="#D1FAE5" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Interested in software engineering, analytics, and practical tools that solve real problems.
   </text>
-  <text x="110" y="234" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">
-    Interested in software engineering, analytics, and systems that solve real problems.
+  <text x="110" y="248" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17">
+    Python • JavaScript / TypeScript • React • FastAPI • Node.js • Tableau
   </text>
 
-  <rect x="760" y="80" width="320" height="164" rx="18" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.10"/>
-  <text x="792" y="124" fill="#E2E8F0" font-family="Consolas, monospace" font-size="18">tech_stack = {</text>
-  <text x="812" y="154" fill="#7DD3FC" font-family="Consolas, monospace" font-size="18">"backend": ["Python", "Node.js"],</text>
-  <text x="812" y="184" fill="#86EFAC" font-family="Consolas, monospace" font-size="18">"frontend": ["React", "Next.js", "Vue"],</text>
-  <text x="812" y="214" fill="#FDE68A" font-family="Consolas, monospace" font-size="18">"data": ["pandas", "SQL", "Tableau"]</text>
-  <text x="792" y="244" fill="#E2E8F0" font-family="Consolas, monospace" font-size="18">}</text>
+  <rect x="742" y="74" width="344" height="172" rx="20" fill="url(#panel)" stroke="white" stroke-opacity="0.10"/>
+  <circle cx="774" cy="98" r="5" fill="#FB7185"/>
+  <circle cx="792" cy="98" r="5" fill="#FBBF24"/>
+  <circle cx="810" cy="98" r="5" fill="#34D399"/>
+  <text x="772" y="128" fill="#E2E8F0" font-family="Consolas, monospace" font-size="17">tech_stack = {</text>
+  <text x="792" y="158" fill="#7DD3FC" font-family="Consolas, monospace" font-size="17">"backend": ["Python", "Node.js"],</text>
+  <text x="792" y="188" fill="#86EFAC" font-family="Consolas, monospace" font-size="17">"frontend": ["React", "Next.js", "Vue"],</text>
+  <text x="792" y="218" fill="#FDE68A" font-family="Consolas, monospace" font-size="17">"data": ["pandas", "SQL", "Tableau"]</text>
+  <text x="772" y="244" fill="#E2E8F0" font-family="Consolas, monospace" font-size="17">}</text>
 </svg>
