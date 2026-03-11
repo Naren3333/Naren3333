@@ -9,7 +9,7 @@
       <stop stop-color="#38BDF8"/>
       <stop offset="1" stop-color="#34D399"/>
     </linearGradient>
-    <linearGradient id="panel" x1="740" y1="92" x2="1060" y2="244" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="770" y1="84" x2="1115" y2="252" gradientUnits="userSpaceOnUse">
       <stop stop-color="white" stop-opacity="0.10"/>
       <stop offset="1" stop-color="white" stop-opacity="0.04"/>
     </linearGradient>
@@ -23,7 +23,8 @@
 
   <rect x="72" y="70" width="8" height="178" rx="4" fill="url(#accent)"/>
 
-  <text x="129" y="92" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
+  <rect x="104" y="72" width="210" height="30" rx="15" fill="white" fill-opacity="0.08"/>
+  <text x="120" y="92" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
     SOFTWARE ENGINEERING • SMU
   </text>
 
@@ -40,13 +41,13 @@
     Python • JavaScript / TypeScript • React • FastAPI • Node.js • Tableau
   </text>
 
-  <rect x="742" y="74" width="344" height="172" rx="20" fill="url(#panel)" stroke="white" stroke-opacity="0.10"/>
-  <circle cx="774" cy="98" r="5" fill="#FB7185"/>
-  <circle cx="792" cy="98" r="5" fill="#FBBF24"/>
-  <circle cx="810" cy="98" r="5" fill="#34D399"/>
-  <text x="772" y="128" fill="#E2E8F0" font-family="Consolas, monospace" font-size="17">tech_stack = {</text>
-  <text x="792" y="158" fill="#7DD3FC" font-family="Consolas, monospace" font-size="17">"backend": ["Python", "Node.js"],</text>
-  <text x="792" y="188" fill="#86EFAC" font-family="Consolas, monospace" font-size="17">"frontend": ["React", "Next.js", "Vue"],</text>
-  <text x="792" y="218" fill="#FDE68A" font-family="Consolas, monospace" font-size="17">"data": ["pandas", "SQL", "Tableau"]</text>
-  <text x="772" y="244" fill="#E2E8F0" font-family="Consolas, monospace" font-size="17">}</text>
+  <rect x="768" y="66" width="372" height="182" rx="20" fill="url(#panel)" stroke="white" stroke-opacity="0.10"/>
+  <circle cx="800" cy="92" r="5" fill="#FB7185"/>
+  <circle cx="818" cy="92" r="5" fill="#FBBF24"/>
+  <circle cx="836" cy="92" r="5" fill="#34D399"/>
+  <text x="798" y="124" fill="#E2E8F0" font-family="Consolas, monospace" font-size="17">tech_stack = {</text>
+  <text x="818" y="156" fill="#7DD3FC" font-family="Consolas, monospace" font-size="17">"backend": ["Python", "Node.js"],</text>
+  <text x="818" y="188" fill="#86EFAC" font-family="Consolas, monospace" font-size="17">"frontend": ["React", "Next.js", "Vue"],</text>
+  <text x="818" y="220" fill="#FDE68A" font-family="Consolas, monospace" font-size="17">"data": ["pandas", "SQL", "Tableau"]</text>
+  <text x="798" y="246" fill="#E2E8F0" font-family="Consolas, monospace" font-size="17">}</text>
 </svg>
