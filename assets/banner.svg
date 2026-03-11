@@ -23,7 +23,6 @@
 
   <rect x="72" y="70" width="8" height="178" rx="4" fill="url(#accent)"/>
 
-  <rect x="110" y="72" width="170" height="30" rx="15" fill="white" fill-opacity="0.08"/>
   <text x="129" y="92" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
     SOFTWARE ENGINEERING • SMU
   </text>
