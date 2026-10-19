@@ -17,7 +17,7 @@ Second major in Software Systems · Class of 2028
 
 I like turning an idea into something I can use, break, and make better.
 
-I'm a penultimate-year Software Engineering student with an interest in backend systems, full-stack development, and applied AI. I enjoy figuring out how the pieces fit together—from the interface someone clicks to the services and data behind it.
+I'm a penultimate-year Software Engineering student with an interest in backend systems, full-stack development, and applied AI. I enjoy figuring out how the pieces fit together - from the interface someone clicks to the services and data behind it.
 
 I'm working towards becoming an **AI engineer**, and exploring how to build applications that use AI reliably: with useful context, clear workflows, and outputs people can review.
 
