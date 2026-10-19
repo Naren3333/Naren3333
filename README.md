@@ -1,69 +1,68 @@
 <div align="center">
 
-![Banner](./assets/banner.svg)
+# Hey, I'm Naren.
 
-# Naren Swaminathan
+**Avid builder. Problem solver. Always experimenting.**
 
-<!-- profile-readme-refresh -->
+Software Engineering @ Singapore Management University  
+Second major in Software Systems · Class of 2028
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Naren3333&style=flat-square&color=0f766e)](https://github.com/Naren3333)
-[![GitHub followers](https://img.shields.io/github/followers/Naren3333?style=flat-square&color=2563eb)](https://github.com/Naren3333?tab=followers)
-[![Software Engineering](https://img.shields.io/badge/SMU-Software%20Engineering-7c3aed?style=flat-square)](https://github.com/Naren3333)
-[![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-059669?style=flat-square)](https://github.com/Naren3333)
+[GitHub](https://github.com/Naren3333) · [LinkedIn](https://www.linkedin.com/in/naren-swami/) · [Email](mailto:naren.swaminathan.2005@gmail.com)
 
 </div>
 
-## About Me
+---
 
-I'm a Software Engineering student at Singapore Management University who enjoys building practical systems across software engineering, backend development, and data-focused projects.
+## Behind the code
 
-Most of my work has been in full-stack applications, backend services, machine learning experiments, and system-style projects where multiple components need to work together cleanly. I'm especially interested in roles where I can keep growing through real engineering problems, strong teams, and hands-on product work.
+I like turning an idea into something I can use, break, and make better.
 
-## Tech I Use
+I'm a penultimate-year Software Engineering student with an interest in backend systems, full-stack development, and applied AI. I enjoy figuring out how the pieces fit together—from the interface someone clicks to the services and data behind it.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=42b883)
-![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1d4ed8?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-14532d?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-eab308?style=for-the-badge&logo=tableau&logoColor=111827)
-![Pandas](https://img.shields.io/badge/pandas-4b5563?style=for-the-badge&logo=pandas&logoColor=white)
+I'm working towards becoming an **AI engineer**, and exploring how to build applications that use AI reliably: with useful context, clear workflows, and outputs people can review.
 
-## Selected Projects
+## A few things I've been building
 
-### [Fraud Detection Platform](https://github.com/Naren3333/fraud-detection-system)
-Microservices-based system focused on fraud scoring, decision flows, notifications, and service-to-service communication. This project helped me grow a lot in backend architecture, reliability, and how data can support decision-making.
+### SteepSight
+**An analytics workspace, from raw data to visual insight.**
 
-### [Stock Market App](https://github.com/Naren3333/signalist_stock-tracker-app-main)
-Full-stack stock tracking platform built with Next.js, TypeScript, MongoDB, and event-driven workflows. Includes watchlists, search, charting, and alert-related features.
+Built a full-stack application for data ingestion, profiling, filtering, visualisation, and regression analysis. Connected a React frontend with ASP.NET Core and FastAPI services, using shared request-response contracts to keep the components aligned.
 
-### [Singapore HDB Price Prediction Model](https://github.com/Naren3333/Price_prediction_model_SG_HDB_flats)
-Machine learning and exploratory analysis project using pandas, scikit-learn, Matplotlib, and Seaborn to prepare housing data, engineer features, compare models, and generate reusable visualisations.
+`React` `ASP.NET Core` `FastAPI` `Python` `pandas` `scikit-learn` `Plotly`
 
-### [3D Developer Portfolio](https://github.com/Naren3333/portfolio2)
-Interactive portfolio built with React, Tailwind CSS, motion effects, and 3D elements to showcase projects in a more creative and polished way.
+### Agentic Career Intelligence Platform
+**AI-assisted workflows with room for human judgement.**
 
-## What I'm Exploring
+A project exploring retrieval, typed workflow contracts, and approval gates to produce outputs that can be reviewed before the next step proceeds.
 
-- software engineering internships
-- backend and systems-focused projects
-- data analytics and visualisation
-- machine learning workflows with practical applications
+### OpsPilot
+**Retrieval-grounded AI chat, with evaluation built in.**
 
-## What I'm Focused On
+A project combining AI chat with retrieved context and evaluation dashboards. My focus is on understanding how well the system responds, where it falls short, and how to improve it.
 
-- Building backend-heavy systems that involve APIs, service orchestration, and decision logic
-- Exploring data analytics and machine learning through practical projects, not just coursework
-- Improving at writing software that is reliable, maintainable, and genuinely useful
-- Looking for internship opportunities where I can contribute, learn quickly, and work on meaningful technical problems
+## Tools I reach for
 
-## Contact
+| | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, C#, Go, SQL |
+| **Frontend** | React, Next.js, Vue.js, Tailwind CSS |
+| **Backend** | FastAPI, Flask, Node.js, Express.js, .NET / ASP.NET Core |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Messaging & tooling** | Kafka, RabbitMQ, Docker, Git |
+| **Data & ML** | pandas, NumPy, scikit-learn, Plotly, Tableau |
 
-[![GitHub](https://img.shields.io/badge/GitHub-Naren3333-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Naren3333)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:naren.swaminathan.2005@gmail.com)
+I've also had some hands-on experience with **OutSystems** through my fraud detection coursework project.
+
+## Currently curious about
+
+- Agentic workflows, retrieval, and AI evaluation
+- Concurrency and reliable backend services
+- The architecture decisions that make a project easier to maintain as it grows
+
+## Say hello
+
+I'm looking for internship opportunities in **AI engineering, backend development, and software engineering**.
+
+Always happy to talk projects, compare approaches, or learn how someone else solved a tricky problem.
+
+[Get in touch →](mailto:naren.swaminathan.2005@gmail.com)
